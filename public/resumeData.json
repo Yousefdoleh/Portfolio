@@ -1,0 +1,84 @@
+{
+  "main": {
+    "name": "Yousef Doleh",
+    "occupation": "Computer Science Teacher & IT Help Desk",
+    "description": "",
+    "image": "profilepic.jfif",
+    "bio": "Energetic andd Passionate person",
+    "contactmessage": "Email me",
+    "email": "youssefghassan81@gmail.com",
+    "phone": "+965-50571503",
+    "address": {
+      "city": "Kuwait"
+    },
+    "resumedownload": "cv.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yousefdoleh/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Yousefdoleh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Eastern Mediternean University - Cyprus",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "July 2019",
+        "description": "Graduated second amongst the department"
+      }
+    ],
+    "work": [
+      {
+        "company": "Universal Civilizations Academy",
+        "title": "Computer Science Teacher",
+        "years": "Sept 2019 - Present"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "HTML",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "IT Help Desk",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "React js",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-de021.web.app/"
+      },
+      {
+        "title": "Todo-List (React JS)",
+        "category": "React js",
+        "image": "todo.png",
+        "url": "https://todo-list-fa4a4.web.app/"
+      }
+    ]
+  }
+}
